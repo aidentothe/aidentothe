@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-[![GitHub followers](https://img.shields.io/github/followers/aidentothe?label=Follow&style=social)](https://github.com/aidentothe) [![LinkedIn](https://img.shields.io/badge/LinkedIn-aidentothe-blue?logo=linkedin)](https://linkedin.com/in/aidentothe) [![Twitter Follow](https://img.shields.io/twitter/follow/aidentothe?label=Follow&style=social)](https://twitter.com/aidentothe)
+[![GitHub followers](https://img.shields.io/github/followers/aidentothe?label=Follow&style=social)](https://github.com/aidentothe) [![LinkedIn](https://img.shields.io/badge/LinkedIn-aidentothe-blue?logo=linkedin)](https://linkedin.com/in/aidentothe) [![Twitter Follow](https://img.shields.io/twitter/follow/whatevenisai?label=Follow&style=social)](https://twitter.com/whatevenisai)
 
 Welcome to my corner of GitHub! I’m **Aiden Huang**, a passionate software engineer with a love for crafting elegant, reliable, and user-friendly applications.
 
