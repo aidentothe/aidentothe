@@ -7,7 +7,7 @@ MOST WORK IN PRIVATE REPOs
 - 🔭 I’m currently working on **redacted**.
 - 🌱 I’m currently learning **Rust**, **GraphQL**, and diving deeper into **serverless architecture** (AWS Lambda, Azure Functions).
 - 👯 I’m looking to collaborate on open-source **developer tooling** and **observability** projects.
-- 🤔 I’m looking for help with **Kubernetes** best practices and **CI/CD pipelines** (GitHub Actions, Jenkins).
+- 🤔 I’m looking for help with nothing
 - 💬 Ask me about **JavaScript**, **TypeScript**, **React**, **Node.js**, and **cloud infrastructure**.
 - 📫 How to reach me:  
   &nbsp;&nbsp;• Email: [aidenhuang.pro@gmail.com](mailto:aiden.tothe@example.com)  
