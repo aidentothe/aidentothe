@@ -10,8 +10,8 @@ MOST WORK IN PRIVATE REPOs
 - 🤔 I’m looking for help with nothing
 - 💬 Ask me about **JavaScript**, **TypeScript**, **React**, **Node.js**, and **cloud infrastructure**.
 - 📫 How to reach me:  
-  &nbsp;&nbsp;• Email: [aidenhuang.pro@gmail.com](mailto:aiden.tothe@example.com)  
+  &nbsp;&nbsp;• Email: [aidenhuang.pro@gmail.com](mailto:aidenhuang.pro@gmail.com)  
   &nbsp;&nbsp;• LinkedIn: [linkedin.com/in/aidentothe](https://linkedin.com/in/aidentothe)  
-  &nbsp;&nbsp;• Twitter: [@aidentothe](https://twitter.com/whatevenisai)
+  &nbsp;&nbsp;• Twitter: [@whatevenisai](https://twitter.com/whatevenisai)
 - 😄 Pronouns: **he / him**
 - ⚡ Fun fact: I’m a chess player (2000ELO chess.com) and a dedicated poker player.
