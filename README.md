@@ -12,4 +12,4 @@ I’m **Aiden Huang**, a passionate software engineer with a love for crafting e
   &nbsp;&nbsp;• LinkedIn: [linkedin.com/in/aidentothe](https://linkedin.com/in/aidentothe)  
   &nbsp;&nbsp;• Twitter: [@whatevenisai](https://twitter.com/whatevenisai)
 - 😄 Pronouns: **he / him**
-- ⚡ Fun fact: I’m a chess player and eCTF finalsit
+- ⚡ Fun fact: I’m a chess player and love CTFs!
